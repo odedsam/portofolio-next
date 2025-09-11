@@ -25,7 +25,7 @@ export const PROJECTS: Project[] = [
     description:
       'LawFinder is an intelligent platform designed to search, discover, and compare laws, court rulings, and legal precedents in real time. Built for high performance and a streamlined user experience, it offers advanced search, smart filtering, and full multilingual support, making legal information accessible, precise, and easy to use for everyone.',
     tech: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Prisma', 'PostgreSQL', 'Lucide Icons'],
-    href: 'https://lawfinder.vercel.app',
+    href: 'https://lawfinder.co.il',
     imageUrl: '/thumb/lawfinder-thumbnail.webp',
     githubMonorepo: 'https://github.com/odedsam/lawfinder',
   },
