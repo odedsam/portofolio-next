@@ -59,7 +59,96 @@ export const PROJECTS: Project[] = [
     imageUrl: '/thumb/noad-thumbnail.webp',
     githubMonorepo: 'https://github.com/odedsam/crypto-dash',
   },
-
+  {
+    title: 'Coffee Shop',
+    description:
+      'A modern coffee shop web app featuring a fully interactive menu, table reservations, and customer management. Optimized for mobile and desktop with smooth animations, seamless ordering, and real-time updates for availability.',
+    tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
+    href: 'https://coffee-shop-mauve-mu.vercel.app',
+    githubMonorepo: 'https://github.com/odedsam/stream-vibe',
+    imageUrl: '/thumb/coffee-shop-thumbnail.webp',
+  },
+  {
+    title: 'Gym Studio',
+    description:
+      'A comprehensive fitness studio platform that allows users to book classes, track workouts, and manage subscriptions. Features responsive UI, real-time schedule updates, and personalized dashboards for both trainers and clients.',
+    tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
+    href: 'https://gym-studio-pi.vercel.app',
+    githubMonorepo: 'https://github.com/odedsam/stream-vibe',
+    imageUrl: '/thumb/gym-studio-thumbnail.webp',
+  },
+  {
+    title: 'Furniture Store',
+    description:
+      'An online furniture store with advanced product catalog, category filters, and real-time inventory tracking. Supports smooth checkout, high-quality visuals, and optimized performance for fast browsing and conversion.',
+    tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
+    href: 'https://furniture-shop-eosin-eight.vercel.app',
+    githubMonorepo: 'https://github.com/odedsam/stream-vibe',
+    imageUrl: '/thumb/furniture-store-thumbnail.webp',
+  },
+  {
+    title: 'Academy',
+    description:
+      'A professional e-learning platform offering online courses, video lessons, progress tracking, and certification. Includes personalized dashboards, multilingual support, and optimized performance for a smooth learning experience.',
+    tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
+    href: 'https://academy-iota-two.vercel.app',
+    githubMonorepo: 'https://github.com/odedsam/stream-vibe',
+    imageUrl: '/thumb/academy-thumbnail.webp',
+  },
+  {
+    title: 'Real Estate',
+    description:
+      'A real estate platform for browsing, comparing, and inquiring about properties. Features advanced search, map integration, real-time availability, and optimized UX for desktop and mobile users looking for homes or commercial spaces.',
+    tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
+    href: 'https://flowers-shop-xi.vercel.app',
+    githubMonorepo: 'https://github.com/odedsam/stream-vibe',
+    imageUrl: '/thumb/real-estate-thumbnail.webp',
+  },
+  {
+    title: 'Cars Rental',
+    description:
+      'A dynamic car rental platform offering real-time availability, instant booking, and flexible pricing. Includes smooth browsing, vehicle details, image galleries, and responsive checkout optimized for speed and low latency.',
+    tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
+    href: 'https://cars-rentals-silk.vercel.app',
+    githubMonorepo: 'https://github.com/odedsam/stream-vibe',
+    imageUrl: '/thumb/cars-rental-thumbnail.webp',
+  },
+  {
+    title: 'Business Consulting',
+    description:
+      'A professional business consulting platform showcasing services, expert profiles, case studies, and client testimonials. Includes smooth navigation, interactive forms, and optimized performance for lead generation and client engagement.',
+    tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
+    href: 'https://business-consulting-kappa.vercel.app',
+    githubMonorepo: 'https://github.com/odedsam/stream-vibe',
+    imageUrl: '/thumb/business-consulting-thumbnail.webp',
+  },
+  {
+    title: 'Handyman',
+    description:
+      'An on-demand handyman service platform allowing users to schedule repairs, track service providers, and rate completed jobs. Features a real-time booking system, responsive UI, and streamlined workflow for both clients and professionals.',
+    tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
+    href: 'https://clinic-wine.vercel.app',
+    githubMonorepo: 'https://github.com/odedsam/stream-vibe',
+    imageUrl: '/thumb/handyman-thumbnail.webp',
+  },
+  {
+    title: 'Kids Clothes',
+    description:
+      'An e-commerce platform for children’s clothing featuring curated collections, age and gender filters, promotions, and fast checkout. Optimized for mobile-first shopping, smooth product browsing, and high conversion rates.',
+    tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
+    href: 'https://kids-clothes-six.vercel.app',
+    githubMonorepo: 'https://github.com/odedsam/stream-vibe',
+    imageUrl: '/thumb/kids-clothes-thumbnail.webp',
+  },
+  {
+    title: 'Delicatessen',
+    description:
+      'An online delicatessen platform offering gourmet products with detailed descriptions, promotions, and delivery options. Features smooth browsing, quick checkout, and high-quality product images to enhance user experience.',
+    tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
+    href: 'https://delicatessen-brown.vercel.app',
+    githubMonorepo: 'https://github.com/odedsam/stream-vibe',
+    imageUrl: '/thumb/delicatessen-thumbnail.webp',
+  },
   {
     title: 'Virtual Library',
     description:
