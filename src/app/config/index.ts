@@ -60,6 +60,15 @@ export const PROJECTS: Project[] = [
     githubMonorepo: 'https://github.com/odedsam/crypto-dash',
   },
   {
+    title: 'Delicatessen',
+    description:
+      'An online delicatessen platform offering gourmet products with detailed descriptions, promotions, and delivery options. Features smooth browsing, quick checkout, and high-quality product images to enhance user experience.',
+    tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
+    href: 'https://delicatessen-brown.vercel.app',
+    githubMonorepo: 'https://github.com/odedsam/stream-vibe',
+    imageUrl: '/thumb/delicatessen-thumbnail.webp',
+  },
+  {
     title: 'Coffee Shop',
     description:
       'A modern coffee shop web app featuring a fully interactive menu, table reservations, and customer management. Optimized for mobile and desktop with smooth animations, seamless ordering, and real-time updates for availability.',
@@ -69,7 +78,7 @@ export const PROJECTS: Project[] = [
     imageUrl: '/thumb/coffee-shop-thumbnail.webp',
   },
   {
-    title: 'Gym Studio',
+    title: 'Fit Studio',
     description:
       'A comprehensive fitness studio platform that allows users to book classes, track workouts, and manage subscriptions. Features responsive UI, real-time schedule updates, and personalized dashboards for both trainers and clients.',
     tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
@@ -100,7 +109,7 @@ export const PROJECTS: Project[] = [
     description:
       'A real estate platform for browsing, comparing, and inquiring about properties. Features advanced search, map integration, real-time availability, and optimized UX for desktop and mobile users looking for homes or commercial spaces.',
     tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
-    href: 'https://flowers-shop-xi.vercel.app',
+    href: 'https://realestate-ashy-phi.vercel.app',
     githubMonorepo: 'https://github.com/odedsam/stream-vibe',
     imageUrl: '/thumb/real-estate-thumbnail.webp',
   },
@@ -127,7 +136,7 @@ export const PROJECTS: Project[] = [
     description:
       'An on-demand handyman service platform allowing users to schedule repairs, track service providers, and rate completed jobs. Features a real-time booking system, responsive UI, and streamlined workflow for both clients and professionals.',
     tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
-    href: 'https://clinic-wine.vercel.app',
+    href: 'https://handyman-gules.vercel.app',
     githubMonorepo: 'https://github.com/odedsam/stream-vibe',
     imageUrl: '/thumb/handyman-thumbnail.webp',
   },
@@ -140,15 +149,7 @@ export const PROJECTS: Project[] = [
     githubMonorepo: 'https://github.com/odedsam/stream-vibe',
     imageUrl: '/thumb/kids-clothes-thumbnail.webp',
   },
-  {
-    title: 'Delicatessen',
-    description:
-      'An online delicatessen platform offering gourmet products with detailed descriptions, promotions, and delivery options. Features smooth browsing, quick checkout, and high-quality product images to enhance user experience.',
-    tech: ['TypeScript', 'Next.js', 'Zustand', 'Tailwind CSS'],
-    href: 'https://delicatessen-brown.vercel.app',
-    githubMonorepo: 'https://github.com/odedsam/stream-vibe',
-    imageUrl: '/thumb/delicatessen-thumbnail.webp',
-  },
+
   {
     title: 'Virtual Library',
     description:
